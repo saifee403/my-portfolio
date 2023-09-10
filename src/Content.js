@@ -82,31 +82,37 @@ export const content = {
         name: "HTML",
         para: "Lorem ipsum text  dummy",
         logo: figma,
+        desc: "As an HTML developer, I create the structural foundation of web pages using HTML elements and tags. My responsibilities include organizing and formatting content, collaborating with design and development teams, and ensuring web compatibility and performance. I integrate dynamic data into HTML templates, implement responsive design for various devices, and prioritize web accessibility. Troubleshooting and effective communication within the team are crucial, and I play a key role in maintaining, updating, and enhancing web content for a seamless user experience."
       },
       {
         name: "CSS",
         para: "Lorem ipsum text  dummy",
         logo: nodejs,
+        desc: "As a CSS developer, I play a crucial role in web development by defining the visual aesthetics and layout of websites and web applications. My responsibilities include crafting styles and layouts for HTML elements, ensuring responsive design for diverse screen sizes, and addressing cross-browser compatibility issues. Collaborating closely with web designers and HTML developers, I bring design concepts to life and incorporate animations and interactivity to create engaging user experiences."
       },
       {
         name: "Javascript",
         para: "Lorem ipsum text  dummy",
         logo: ps,
+        desc: "As a JavaScript developer, my primary focus is on enhancing the functionality and interactivity of websites and web applications. I work with the client-side of web development, utilizing JavaScript to create dynamic user interfaces, handle user interactions, and manage data. My role involves collaborating closely with designers and back-end developers, and I'm responsible for writing efficient and maintainable code that delivers seamless user experiences."
       },
       {
         name: "React js",
         para: "Lorem ipsum text  dummy",
         logo: reactjs,
+        desc: "As a React developer, I specialize in building dynamic and highly interactive web applications. My primary focus is on utilizing the React JavaScript library to create efficient, component-based user interfaces. I work collaboratively with designers and back-end developers to seamlessly integrate front-end and back-end functionalities. My expertise in React allows me to develop responsive and scalable web solutions, delivering exceptional user experiences and ensuring the performance and maintainability of the applications I build."
       },
       {
         name: "Bootstrap",
         para: "Lorem ipsum text  dummy",
         logo: sketch,
+        desc: "As a React developer who incorporates Bootstrap CSS, I specialize in building versatile and visually engaging web applications. My expertise lies in harnessing React's component-based architecture and seamlessly integrating Bootstrap's CSS framework to create responsive and user-friendly interfaces. I collaborate closely with design and back-end teams to ensure the seamless integration of front-end and back-end functionalities, resulting in efficient, maintainable, and aesthetically pleasing web solutions."
       },
       {
         name: "Tailwind CSS",
         para: "Lorem ipsum text  dummy",
         logo: python,
+        desc: "As a React developer who harnesses the power of Tailwind CSS, my expertise lies in crafting sleek and responsive web applications. I leverage React's component-driven approach and seamlessly integrate Tailwind CSS to create visually appealing and highly efficient user interfaces. By collaborating closely with design and back-end teams, I ensure that the applications I build are not only visually appealing but also performant and maintainable. My skills in React and Tailwind CSS enable me to deliver outstanding user experiences and responsive web solutions."
       },
     ],
     icon: MdArrowForward,
@@ -138,11 +144,11 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Gym Website",
+        title: "E-Commerce web",
         image: project1,
       },
       {
-        title: "Social Media web",
+        title: "agency website ",
         image: project2,
       },
       {
