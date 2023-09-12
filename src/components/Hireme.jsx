@@ -2,6 +2,7 @@ import { content } from "../Content";
 
 const Hireme = () => {
   const { Hireme } = content;
+  
 
   return (
     <section className="bg-bg_light_primary">
@@ -33,9 +34,12 @@ const Hireme = () => {
           >
             <p className="leading-7">{Hireme.para}</p>
             <br />
+            <a href="https://www.linkedin.com/in/muhammad-saif-ur-rehman-061ab41b5/" target="_blank">
             <button className="btn bg-dark_primary text-white">
               {Hireme.btnText}
             </button>
+            </a>
+
           </div>
         </div>
       </div>
